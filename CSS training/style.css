@@ -1,0 +1,160 @@
+/* task1*/
+.test1 {
+    color: violet;
+}
+.test2 {color: brown;
+}
+.test3{ 
+    color: blue;
+
+}
+.test4{color: green;
+}
+
+/*task2*/
+.p1{
+    font-size: 18px;
+}
+.p2{
+    color:gray;font-size: 30px;
+}
+.p3{
+     color:navy;font-size: 1.5em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p4{
+    color: purple;font-size:25px ; style
+}
+
+/*task3*/
+#title{
+text-align:center;
+}
+.under line{
+    text-decoration: overline;
+}
+.web{
+    text-decoration: line-through;
+}
+   /*task4*/
+   .page{
+    background-color: gray;
+   }
+ .c{
+    background-color:DodgerBlue
+ }
+   .welcome{
+    color:white; text-align:center ;
+   }
+.power{
+color:red;text-decoration: underline;
+}
+.strikethrough{
+    font-weight: bold;text-decoration: line-through;
+}
+.all{
+   color: white;text-align:center
+}
+.contact{
+     color: red; text-align:center
+}
+/*task 5*/
+
+.css{
+    text-align:center;   
+}
+.cbi{
+    color: red;  text-decoration: underline;
+}
+.image{
+ 
+    background-image: url(task\ 5.jpg);
+    
+}
+/*task6*/
+.image1 {
+     height: 700;
+    background-image:url(task6.jpg); 
+    background-repeat:repeat-y;
+    background-size: contain;
+}
+
+/*task7*/
+.task7{
+background-image:url(image7.jpg);
+}
+.art{
+    color: red;text-decoration: underline;
+}
+.Nothing{
+    background-color: aliceblue;color: black;
+}
+.M{
+    color: green;text-decoration: underline;
+}
+
+/*task8*/
+.Medi{
+    background-image: url(image81.jpg),url(image82.jpg);
+background-size: 50%,50%;
+background-position:left,right;
+background-repeat: no-repeat,no-repeat;
+}
+
+/*task9*/
+.look{ text-align: center
+;background-image:linear-gradient(#a86aa4 50%,
+#cc6b8e 62%,
+#f3a469 87%,
+#f7c978 100%);width: 600px;height: 400px;
+background-size: contain;height: 100vh;width: 100dvh;
+   
+}
+/*task10*/
+.I1{
+    color:white;background-color: aqua;
+}
+.I5{
+    color:white;background-color: #cc6b8e;
+}
+.I7{
+    color: aliceblue;background-color: #f3a469;
+}
+
+/*task11*/
+.task11{ border: 10px black;
+    background-color: #f3a469;
+}
+.con{
+    background-color:brown;text-align: center;
+}
+.sen{
+    background-color: yellow;
+}
+/*task12*/
+
+
+
+/*task13*/
+.image13{
+    height: 700;
+    background-image:url(image13.png), url(image132.png); 
+    background-repeat:repeat-y,repeat-x;
+    background-size: contain;
+}
+/*task14*/
+.ABC{
+    background-color: #c9b75e;
+}
+.year{
+    color: brown;
+}
+.of{
+    background-color: aqua;
+}
+.par{
+    background-color: #cc6b8e;
+}
+.red{
+    background-color: red;
+}
